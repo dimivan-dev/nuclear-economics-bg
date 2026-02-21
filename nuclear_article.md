@@ -10,7 +10,7 @@ Kozloduy NPP, Bulgaria's only nuclear plant, has two 1,000 MW reactors producing
 
 That model is now breaking. Solar energy — which produces for free once installed — is eating into the hours when nuclear can sell its power. And unlike gas plants that can simply turn off when solar floods the market, nuclear can't flex. The result is a slow but mathematically inevitable squeeze on Kozloduy's economics.
 
-## 1. The Solar Wave
+## The Solar Wave
 
 Bulgaria's installed solar capacity has reached ~5.3 GW in 2024. ESO's (the Bulgarian TSO) 10-year network development plan projects **14.8 GW of new solar** and **5.2 GW of battery storage** by 2034, based on investor intentions already in the pipeline. ESO themselves state plainly what this means:
 
@@ -48,7 +48,7 @@ ESO's plan includes 5.2 GW of battery storage. Batteries don't save nuclear — 
 
 The Recovery and Resilience Plan creates strong investment incentives for storage deployment. Bulgaria could reach multi-GWh battery capacity well ahead of ESO's 2034 timeline, accelerating the erosion of nuclear's evening price premium.
 
-## 2. February 15, 2026: A Preview
+## February 15, 2026: A Preview
 
 On February 15, 2026, a Sunday, Bulgaria experienced near-zero electricity prices for almost the entire day — **in winter**. This is not a summer phenomenon.
 
@@ -75,7 +75,7 @@ In 2015-2017, Bulgaria could profitably export surplus baseload power to its nei
 
 When Bulgaria had surplus power on Feb 15, 2026, it couldn't even sell it at cost — the interconnectors were full and the neighbors didn't need it at any price. As solar and wind grow across the entire Balkans region, these export-blocked, near-zero-price events will become routine.
 
-## 3. Winter Under Threat
+## Winter Under Threat
 
 Nuclear's traditional stronghold is winter: solar is minimal, demand peaks, and prices are highest. But even this is eroding.
 
@@ -85,7 +85,7 @@ In 2024, 20 winter days already had solar peaks above 2 GW in Bulgaria. Some sho
 
 The result: nuclear's "safe" selling season is shrinking from both ends — solar eats the shoulder months and summer, while regional wind eats into winter margins.
 
-## 4. Unit 6 Reliability
+## Unit 6 Reliability
 
 The economic analysis above assumes Kozloduy operates reliably when it's running. Recent events at Unit 6 challenge this assumption.
 
@@ -108,7 +108,7 @@ The declining capacity factor trend is already visible in the data:
 
 From 16.7 TWh in 2020 to 14.8 TWh in 2025 — a drop of 1.9 TWh (11%) in five years, and the decline is accelerating.
 
-## 5. The Real Cost of Kozloduy
+## The Real Cost of Kozloduy
 
 According to Kozloduy's 2024 annual report, total annual expenses were **1,842,450 thousand BGN (942 M EUR)**. The full breakdown:
 
@@ -166,7 +166,7 @@ At today's prices, Kozloduy remains profitable even at CF 50%. But 2024 prices (
 
 At 80 EUR/MWh and CF 55%, profit is just 85 M EUR — down 91% from today. And the squeeze works from both sides: costs rise (lower CF) while revenue falls (lower prices). This is the death spiral.
 
-## 6. The Death Spiral
+## The Death Spiral
 
 Nuclear power plants in markets with growing renewable penetration face a well-documented pattern:
 
@@ -181,7 +181,7 @@ Nuclear power plants in markets with growing renewable penetration face a well-d
 
 Bulgaria is at stages 1-3 today. ESO's own projections and the Recovery and Resilience Plan place the country at stages 4-6 well before 2034.
 
-## 7. Conclusion
+## Conclusion
 
 Kozloduy NPP is not in immediate danger of closure. At current capacity factors and prices, it generates 891 M EUR of annual profit. But the trajectory is clear and the math is unforgiving:
 
@@ -197,4 +197,4 @@ The question facing Bulgarian energy policy is not whether this transition will 
 
 ---
 
-*Analysis based on ENTSOE hourly market data (2015-2026), Kozloduy NPP 2024 Annual Report, and ESO 10-year network development plan 2024-2033 ([eso.bg](https://www.eso.bg/fileObj.php?oid=5402)). All calculations use actual market prices and reported generation data.*
+*Analysis based on ENTSOE hourly market data (2015-2026), Kozloduy NPP 2024 Annual Report, and ESO 10-year network development plan 2024-2033 ([eso.bg](https://www.eso.bg/fileObj.php?oid=5402)). All data and scripts available at [github.com/dimivan-dev/nuclear-economics-bg](https://github.com/dimivan-dev/nuclear-economics-bg).*
