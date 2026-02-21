@@ -1,7 +1,5 @@
 # Slow but Inevitable: The Economic Death of Nuclear in Bulgaria
 
-## Introduction
-
 A nuclear power plant is like a factory with enormous rent and almost no raw material costs. Whether Kozloduy NPP produces one megawatt-hour or sixteen billion of them, it still pays the same salaries to thousands of employees, the same maintenance bills, the same decommissioning contributions, and the same depreciation on its life-extension investments. The actual fuel — uranium — is surprisingly cheap, just a few euros per megawatt-hour.
 
 This cost structure creates a simple but unforgiving economic rule: nuclear power only works if the plant runs **a lot**. The industry measures this as the **capacity factor (CF)** — what percentage of the theoretical maximum the plant actually produces. At 90% CF, the massive fixed costs are spread over a lot of electricity, making each unit affordable. At 50% CF, those same costs are spread over half the output, roughly doubling the price per unit. There's no way around this math.
@@ -10,9 +8,9 @@ For decades, Kozloduy's two 1,000 MW reactors ran at 92-95% capacity factor, pro
 
 That model is now breaking — and the force breaking it cannot be stopped.
 
-## 1. The Solar Tsunami
+**Bulgaria's installed solar capacity has reached 5.3 GW. ESO projects 14.8 GW of new solar and 16 GWh of battery storage by 2034.**
 
-Bulgaria's installed solar capacity has reached ~5.3 GW in 2024. ESO's (the Bulgarian Transmission System Operator) 10-year network development plan projects **14.8 GW of new solar** and **5.2 GW of battery storage** by 2034, based on investor intentions already in the pipeline:
+ESO's (the Bulgarian Transmission System Operator) 10-year network development plan lays it out plainly, based on investor intentions already in the pipeline:
 
 > „С ускореното навлизане на ВЕИ и липса на значителен промишлен товар в страната, необходимостта от принудително ограничаване работната мощност на АЕЦ през определени периоди в годината тепърва ще се увеличава."
 >
@@ -20,100 +18,95 @@ Bulgaria's installed solar capacity has reached ~5.3 GW in 2024. ESO's (the Bulg
 
 *("With the accelerated entry of renewables and the lack of significant industrial load in the country, the need to forcibly limit the operating capacity of the NPP during certain periods of the year will only increase.")*
 
-ESO themselves acknowledge what the data shows: forced curtailment of nuclear is coming.
+Bulgaria's participation in the EU Recovery and Resilience Plan will further accelerate this timeline. The investment incentives and regulatory fast-tracking mean the country will likely reach 16 GWh of battery storage and significant solar milestones well before 2034.
 
-Bulgaria's participation in the EU Recovery and Resilience Plan will further accelerate this timeline. The investment incentives and regulatory fast-tracking mean the country will likely hit significant solar and storage milestones well before 2034. The 5.2 GW of planned battery storage — measured in GWh, roughly 16+ GWh — may arrive sooner than anyone expects.
+**Solar produces for free. When it floods the grid, it pushes prices toward zero — and nuclear has nowhere to hide.**
 
-### What Solar Does to Nuclear
+Nuclear doesn't get physically curtailed by solar — it could keep running. The problem is economic: when solar pushes prices below nuclear's operating cost, every hour the plant runs is an hour it loses money.
 
-Solar energy produces for free once installed. When solar floods the grid at midday, it pushes prices toward zero — sometimes below. Nuclear, which cannot economically ramp down for a few hours, keeps producing into this oversupplied market. Every sunny hour is an hour where Kozloduy either sells at near-zero prices or must physically curtail its output.
+Until now, Kozloduy has been partly shielded by the daily price cycle. Even on sunny days, the evening peak (when solar fades but demand stays high) kept average daily prices above nuclear's cost. Nuclear sold cheaply at midday but recovered on the evening peak. With no significant battery storage deployed yet in Bulgaria, this peak-night spread has been nuclear's lifeline.
 
-Using 2024 hourly ENTSOE data, we can model the impact:
+**That lifeline is about to be cut.**
+
+With 16 GWh of batteries planned (and accelerated by the Recovery and Resilience Plan), batteries will charge during solar midday and discharge into the evening peak — eliminating exactly the price spread that keeps nuclear profitable on sunny days. Once batteries flatten the evening peak, nuclear has nowhere to recover its midday losses.
+
+**In summer 2025, solar already accounts for 25-30% of Bulgaria's electricity generation — and is set to triple.**
+
+Using 2025 actual market data, we can model what electricity prices would look like as solar capacity grows toward ESO's 2034 projections. The analysis uses Bulgaria's measured merit order price elasticity (0.035 EUR/MWh per MW of additional supply) and accounts for coal displacement — extra solar first pushes coal off the grid before compressing prices further. Battery storage (15 GWh) flattens the daily price curve by charging during cheap midday hours and discharging into evening peaks.
+
+An important caveat: the 2025 baseline already understates the problem. During May-August 2025, Unit 6 was offline or running at half capacity for extended periods, reducing nuclear output by 500-900 MW. This lower supply kept prices higher than they would have been with both reactors running. The numbers below are therefore conservative — with both units at full power, summer prices would be even lower.
+
+| Solar capacity | Avg price (EUR/MWh) | Hours below nuclear cost | Hours below zero | Uneconomic months |
+|---|---:|---:|---:|---|
+| **5.3 GW (2025 actual)** | **100** | **1,505** | **584** | **—** |
+| 7 GW + 15 GWh batteries | 99 | 1,534 | 601 | — |
+| 10 GW + 15 GWh batteries | 90 | 1,845 | 915 | Jun, Aug |
+| **14.3 GW + 15 GWh (ESO 2034)** | **74** | **2,697** | **1,468** | **Jun, Jul, Aug** |
+| 20 GW + 15 GWh batteries | 49 | 3,364 | 2,340 | Apr–Sep |
+
+At ESO's projected 14.3 GW of solar with 15 GWh of batteries, the average market price drops to 74 EUR/MWh. During 1,468 hours per year, prices go negative. The entire summer — June, July, August — becomes uneconomic, with average monthly prices below nuclear's operating cost. At 20 GW, six consecutive months (April through September) are uneconomic, and the yearly average itself falls below nuclear's cost.
+
+**Month by month at ESO's 2034 projection, the squeeze leaves nuclear profitable only five months a year.**
+
+| Month | Avg Price (EUR/MWh) | Hours below cost | Hours below zero | Verdict |
+|---:|---:|---:|---:|---|
+| Jan | 126 | 108 | 16 | ok |
+| Feb | 148 | 22 | 1 | ok |
+| Mar | 81 | 207 | 72 | ok |
+| Apr | 58 | 268 | 133 | marginal |
+| May | 52 | 309 | 161 | marginal |
+| **Jun** | **37** | **357** | **199** | **uneconomic** |
+| **Jul** | **46** | **354** | **177** | **uneconomic** |
+| **Aug** | **38** | **346** | **215** | **uneconomic** |
+| Sep | 57 | 263 | 139 | marginal |
+| Oct | 72 | 194 | 123 | ok |
+| Nov | 83 | 135 | 112 | ok |
+| Dec | 83 | 134 | 120 | ok |
+
+April, May, and September are marginal — prices hover near nuclear's cost with hundreds of hours below it. June through August are outright uneconomic. Nuclear goes from a year-round money machine to a winter-only generator — but one that still pays fixed costs 12 months a year.
 
 ![Solar Growth vs Nuclear Capacity Factor](charts/solar_vs_nuclear_cf.png)
 
-| Solar installed | Curtailment hours/year | Lost output (TWh) | Nuclear CF | Cost (EUR/MWh) |
-|---|---:|---:|---:|---:|
-| 5.3 GW (2024 actual) | 726 | 0.7 | 86% | 48 |
-| 7.3 GW (+2 GW) | 1,421 | 1.5 | 82% | 51 |
-| 10.3 GW (+5 GW) | 2,012 | 2.8 | 74% | 55 |
-| **14.3 GW (ESO 2034)** | **2,411** | **3.7** | **69%** | **59** |
-| 20.3 GW | 2,787 | 4.5 | 64% | 63 |
+**On February 15, 2026, Bulgaria experienced near-zero electricity prices for almost the entire day — in winter.**
 
-### Not Just Summer — April to October
+![Feb 15, 2026: BG Prices](charts/feb15_2026_prices.png)
 
-The common assumption is that solar only threatens nuclear during the three summer months. The reality is much broader. With 14+ GW of solar, curtailment extends across the entire **April-to-October period** — roughly 7 months. Shoulder months like April, May, September, and October have moderate demand but increasingly strong solar output. At 14.3 GW installed, midday solar generation in these months routinely exceeds total national demand minus nuclear minimum output.
+Bulgaria averaged 12.3 EUR/MWh for the day. Meanwhile, interconnector capacity to neighboring countries was fully saturated — Bulgaria couldn't export its surplus at any price.
 
-This isn't a clean seasonal shutdown. It's a messy pattern of forced curtailment, partial-load operation, and uneconomic running hours spanning more than half the year. Nuclear plants are not designed for this — cycling damages components, increases maintenance costs, and shortens fuel rod life. Each curtailment hour isn't just lost revenue; it adds operational wear.
+| Hour | Nuclear (MW) | Coal (MW) | Gas (MW) | Hydro (MW) | Wind (MW) | BG Price |
+|---:|---:|---:|---:|---:|---:|---:|
+| 00:00 | 1,904 | 1,099 | 313 | 360 | 383 | 10.0 |
+| 06:00 | 1,904 | 1,094 | 313 | 770 | 413 | 0.0 |
+| 10:00 | 1,904 | 1,118 | 308 | 586 | 196 | 2.5 |
+| 14:00 | 1,903 | 1,098 | 313 | 739 | 323 | 0.2 |
+| 18:00 | 1,905 | 1,145 | 312 | 1,134 | 288 | 9.2 |
+| 22:00 | 1,905 | 1,099 | 320 | 635 | 468 | 10.0 |
 
-With April-October curtailment at ESO's projected solar levels:
+The cause: 3,200 MW of must-run generation (nuclear 1,904 + lignite ~1,100 + gas CHP ~310) against ~3,800 MW demand, with 300-470 MW of wind on top. All export interconnectors were at capacity.
 
-| Solar installed | CF (with Apr-Oct curtailment) | Cost (EUR/MWh) | Annual output (TWh) |
-|---|---:|---:|---:|
-| 5.3 GW (2024) | 65% | 61 | 11.4 |
-| 7.3 GW | 62% | 64 | 10.9 |
-| 10.3 GW | 58% | 67 | 10.2 |
-| **14.3 GW (ESO 2034)** | **55%** | **71** | **9.6** |
-| 20.3 GW | 51% | 76 | 8.9 |
-
-At ESO's 2034 projection with seasonal curtailment, Kozloduy's cost reaches **71 EUR/MWh** and output drops to 9.6 TWh — down from 15.6 TWh today.
-
-### Batteries Make It Worse
-
-ESO's plan includes 5.2 GW / ~16 GWh of battery storage. Batteries don't save nuclear — they deepen the problem. Batteries profit by charging when prices are low (solar midday) and discharging when prices are high (evening peak). This flattens the daily price curve: it slightly raises the midday floor but **crushes the evening peak** that nuclear relies on for its best revenue hours. With enough batteries, the lucrative evening spread disappears.
-
-The Recovery and Resilience Plan creates strong investment incentives for storage. Bulgaria could reach multi-GWh battery capacity ahead of ESO's timeline, further accelerating the erosion of nuclear's evening price premium.
-
-### You Cannot Stop the Tsunami
-
-Even if Bulgaria were to freeze all domestic solar and wind construction tomorrow, the problem doesn't go away. Bulgaria, Romania, and Greece form a tightly coupled electricity market — prices typically track within 5 EUR/MWh across the region.
-
-Greece is aggressively building wind farms. Romania is adding both wind and solar. Turkey's market is increasingly self-sufficient. Every GW of renewables installed by a neighbor suppresses the regional price that Bulgarian nuclear earns. The solar and wind tsunami is regional, not national. No amount of domestic policy can shield Kozloduy from the price effects of 50+ GW of renewables being built across the Balkans and Southeast Europe.
-
-## 2. February 15, 2026: A Preview
-
-On February 15, 2026, a Sunday, Bulgaria experienced near-zero electricity prices for almost the entire day — **in winter**.
-
-![Feb 15, 2026: BG vs RO Prices](charts/feb15_2026_prices.png)
-
-Bulgaria averaged **12.3 EUR/MWh** while Romania averaged **138.4 EUR/MWh** — a 126 EUR/MWh spread, with Bulgaria on the wrong side.
-
-| Hour | Nuclear (MW) | Coal (MW) | Gas (MW) | Hydro (MW) | Wind (MW) | BG Price | RO Price |
-|---:|---:|---:|---:|---:|---:|---:|---:|
-| 00:00 | 1,904 | 1,099 | 313 | 360 | 383 | 10.0 | 99.3 |
-| 06:00 | 1,904 | 1,094 | 313 | 770 | 413 | 0.0 | 101.3 |
-| 10:00 | 1,904 | 1,118 | 308 | 586 | 196 | 2.5 | 108.9 |
-| 14:00 | 1,903 | 1,098 | 313 | 739 | 323 | 0.2 | 216.1 |
-| 18:00 | 1,905 | 1,145 | 312 | 1,134 | 288 | 9.2 | 212.0 |
-| 22:00 | 1,905 | 1,099 | 320 | 635 | 468 | 10.0 | 197.5 |
-
-The cause: **3,200 MW of must-run generation** (nuclear 1,904 + lignite ~1,100 + gas CHP ~310) against ~3,800 MW demand, with 300-470 MW of wind on top. Interconnector capacity to Romania was saturated — Bulgaria couldn't export its surplus.
-
-This happened with only **350 MW of wind**. The grid collapsed into surplus not because of massive renewable generation, but because of **nuclear and coal inflexibility**. Kozloduy's 1,904 MW runs 24/7 — it cannot reduce output for a single day. Neither can lignite plants with minimum stable generation requirements.
+This happened with only 350 MW of wind and minimal solar. The grid collapsed into surplus not because of massive renewable generation, but because of nuclear and coal inflexibility. Kozloduy's 1,904 MW runs 24/7. Neither can lignite plants with minimum stable generation requirements.
 
 Compare with Greece on the same day: 3,400 MW of wind, yet prices stayed at 38-142 EUR/MWh. Greece has a flexible gas fleet that ramps down when renewables ramp up. Bulgaria doesn't.
 
-### The Export Market Is Gone
+**Nuclear's traditional stronghold is winter. Even that is eroding.**
 
-In 2015-2017, Bulgaria could profitably export surplus baseload power to neighbors. Those days are over. Romania is building its own solar fleet. Greece has massive wind. The neighbors that once absorbed Bulgaria's excess generation are becoming competitors. When Bulgaria had surplus on Feb 15, 2026, it couldn't sell it at any price — the interconnectors were full and nobody needed it.
+Greek and Romanian wind competes directly with Bulgarian nuclear during winter months. On windy winter days, regional prices face the same oversupply pressure that solar creates in summer.
 
-As solar and wind grow across the entire region, these export-blocked, near-zero-price events will become routine.
+In 2024, 20 winter days already had solar peaks above 2 GW in Bulgaria. Some showed prices of 60-69 EUR/MWh — even today's modest solar fleet pushes prices uncomfortably low on sunny winter days. As solar grows, these days become the norm. And on windy winter days, Greek and Romanian wind does the same job.
 
-## 3. Winter Under Threat
+Nuclear's "safe" selling season is shrinking from both ends — solar eats the shoulder months and summer, regional wind eats into winter.
 
-Nuclear's traditional stronghold is winter: solar is minimal, demand peaks, prices are highest. But even this is eroding.
+**The export market that once absorbed Bulgaria's surplus is gone.**
 
-**Greek and Romanian wind** competes directly with Bulgarian nuclear during winter months. On windy winter days, regional prices face the same kind of oversupply pressure that solar creates in summer.
+In 2015-2017, Bulgaria could profitably export surplus baseload power to neighbors. Romania is now building its own solar fleet. Greece has massive wind. The neighbors that once absorbed Bulgaria's excess generation are becoming competitors — and their interconnector capacity has limits.
 
-In 2024, 20 winter days already had solar peaks above 2 GW in Bulgaria. Some showed prices of 60-69 EUR/MWh — on sunny winter days, even today's modest solar fleet pushes prices uncomfortably low. As solar grows, these days become the norm. And on windy winter days, Greek and Romanian wind does the same job.
+Even if Bulgaria were to freeze all domestic solar and wind construction tomorrow, the problem doesn't go away. Bulgaria, Romania, and Greece form a tightly coupled electricity market — prices typically track within 5 EUR/MWh across the region. Every GW of renewables installed by a neighbor suppresses the regional price that Bulgarian nuclear earns. The solar and wind tsunami is regional, not national. No amount of domestic policy can shield Kozloduy from the price effects of tens of GW of renewables being built across the Balkans and Southeast Europe.
 
-The result: nuclear's "safe" selling season is shrinking from both ends — solar eats the shoulder months and summer, regional wind eats into winter.
+**Meanwhile, Unit 6 is making the problem worse from the other side.**
 
-## 4. Unit 6 Reliability
+Between December 2025 and February 2026, Unit 6 experienced multiple unplanned shutdowns. Each outage carries costs beyond lost generation: emergency response, inspection, regulatory delays on restart. In summer 2025, Unit 6 was offline or at half capacity for extended periods — May averaged just 1,064 MW of nuclear output (versus ~2,000 MW at full capacity), and June-August saw frequent dips below 1,000 MW.
 
-Between December 2025 and February 2026, Unit 6 experienced multiple unplanned shutdowns. Each outage carries costs beyond lost generation: emergency response, inspection, regulatory delays on restart.
-
-The declining capacity factor trend is already visible:
+The declining capacity factor — driven by Unit 6 reliability issues — is already visible:
 
 ![Historical Capacity Factor](charts/historical_cf.png)
 
@@ -127,11 +120,11 @@ The declining capacity factor trend is already visible:
 | **2024** | **15.6** | **89%** |
 | **2025** | **14.8** | **84%** |
 
-From 16.7 TWh in 2020 to 14.8 TWh in 2025 — a drop of 1.9 TWh (11%) in five years, and the decline is accelerating. Note that 2025 ENTSOE data is preliminary — the final numbers, once released, are expected to be worse. Less production from the same fixed cost base means the per-unit cost has already risen from ~44 EUR/MWh (at 2020's 95% CF) to ~49 EUR/MWh (at 2025's 84% CF) — a 10% increase with no change in expenses.
+From 16.7 TWh in 2020 to 14.8 TWh in 2025 — a drop of 1.9 TWh (11%) in five years, driven by Unit 6 technical problems. Note that 2025 ENTSOE data is preliminary — the final numbers, once released, are expected to be worse. Less production from the same fixed cost base means the per-unit cost has already risen from ~44 EUR/MWh (at 2020's 95% CF) to ~49 EUR/MWh (at 2025's 84% CF) — a 10% increase with no change in expenses.
 
-## 5. The Real Cost of Kozloduy
+**Kozloduy's real operating cost is 723 million EUR per year — and almost all of it is fixed.**
 
-According to Kozloduy's 2024 annual report, operating expenses (excluding the SES fund regulatory levy) were **723 M EUR**:
+According to Kozloduy's 2024 annual report, operating expenses (excluding the SES fund regulatory levy) break down as follows:
 
 ![Cost Breakdown](charts/cost_breakdown.png)
 
@@ -145,7 +138,7 @@ According to Kozloduy's 2024 annual report, operating expenses (excluding the SE
 | Depreciation | 107 |
 | **Total OPEX** | **723** |
 
-Of this, **617 M EUR is fixed** — paid whether the plant runs or not. Only fuel and grid access (~6.8 EUR/MWh) scale with output. This is what makes the capacity factor so critical: same bills, fewer megawatt-hours to divide them by.
+Of this, 617 M EUR is fixed — paid whether the plant runs or not. Only fuel and grid access (~6.8 EUR/MWh) scale with output. This is what makes the capacity factor so critical: same bills, fewer megawatt-hours to divide them by.
 
 ![Cost vs Capacity Factor](charts/cost_vs_cf.png)
 
@@ -156,55 +149,40 @@ Of this, **617 M EUR is fixed** — paid whether the plant runs or not. Only fue
 | 85% | 14.9 | 48 |
 | 75% | 13.1 | 54 |
 | 69% (ESO 2034) | 12.1 | 59 |
-| 55% (+ Apr-Oct curtailment) | 9.6 | 71 |
+| 55% | 9.6 | 71 |
 | 50% | 8.8 | 77 |
 | 40% | 7.0 | 95 |
 | **31% (gas parity)** | **5.5** | **120** |
 
-Gas parity — where buying gas-generated electricity becomes cheaper than running Kozloduy — arrives at CF 31%. But the real danger isn't reaching that absolute line. It's the squeeze from both sides: rising costs (from falling CF) meeting falling revenue (from price suppression by solar, batteries, and regional wind). At some point, the gap between what it costs to produce nuclear electricity and what the market will pay for it becomes too small to justify the operational and safety burden of running a nuclear facility.
+Gas parity — where buying gas-generated electricity becomes cheaper than running Kozloduy — arrives at CF 31%. But the real danger isn't reaching that line. It's the squeeze: the average market price nuclear can earn is falling (from 100 today toward 74 at ESO 2034 projections), while its cost per MWh is rising (from 46 today toward 59-71). When the two lines cross, nuclear dies — not because it reached some absolute threshold, but because the market it sells into no longer pays enough to cover its bills.
 
-## 6. Building Two More Reactors: Economic Suicide
+**This is a death spiral — and Bulgaria is entering it now.**
 
-Against this backdrop, Bulgaria is pursuing plans to build two new reactors at Kozloduy — a project costing billions of euros with a construction timeline stretching into the mid-2030s.
+The pattern is well-documented in every market where renewables have reached critical mass. Solar and wind grow, market prices drop. Revenue falls, but fixed costs stay the same. Prices go negative during more and more hours. The plant shuts down for longer periods. Output drops, costs per unit rise. Regional renewables erode even winter margins. Export markets close as neighbors build their own capacity. And then comes the political choice: subsidize, or close.
 
-By the time new reactors come online, the market they're built for will no longer exist. ESO's own projections show 14.8 GW of new solar and 5.2 GW of batteries by 2034. The Recovery and Resilience Plan will accelerate this further. Every year of construction is another year of solar and battery deployment eating into the hours when nuclear can sell power.
+Reliability issues and the solar squeeze feed each other. Every unplanned outage pushes costs up, and every GW of solar pushes revenue down. The margin gets thinner from both sides.
 
-The existing two reactors already face a CF squeeze to 55-69% by 2034. Adding two more reactors — another 2,000 MW of inflexible baseload — into a market that can't absorb the current 2,000 MW is not an investment in energy security. It is doubling down on a stranded asset.
+**Against this backdrop, Bulgaria is pursuing plans to build two more reactors.**
 
-New nuclear at Kozloduy would need to run at high capacity factors for decades to recover its multi-billion-euro construction cost. The data shows the opposite trajectory: capacity factors falling, curtailment hours rising, market prices compressing. With four reactors instead of two, the curtailment problem doesn't just double — it gets exponentially worse, as 4,000 MW of must-run nuclear competes with 14+ GW of near-zero-marginal-cost solar for a national demand that rarely exceeds 6,000 MW.
+The project would cost billions of euros with a construction timeline stretching into the mid-2030s. This is like entering a lame, blind horse into a race that it's already late for — and even if it arrived on time, it couldn't win.
 
-No serious economic analysis supports this investment. The billions earmarked for new reactors would yield far greater returns invested in grid flexibility, storage, and interconnection — the infrastructure Bulgaria actually needs to manage its renewable-dominated future.
+**It's late.** New nuclear construction takes 10-15 years. By the time these reactors produce their first MWh, ESO projects 14.8 GW of solar and 16 GWh of batteries will already be on the grid. The market these reactors are designed for will have ceased to exist.
 
-## 7. The Death Spiral
+**It's lame.** Nuclear is inflexible. It can't ramp down for sunny afternoons or windy winter nights. In a market dominated by variable renewables, inflexibility is not a feature — it's a fatal flaw. Every hour the reactor can't flex is an hour it bleeds money.
 
-Nuclear power plants in markets with growing renewable penetration face a well-documented pattern:
+**It's blind.** The project ignores every market signal. Capacity factors falling. Market prices compressing. Neighbors building their own renewables. Export markets saturating. The data is screaming that inflexible baseload has no future in Southeast Europe's integrating electricity market. The project sees none of this.
 
-1. **Solar grows** → nuclear must curtail during sunny hours (April-October)
-2. **Output drops** → fixed costs spread over fewer MWh → cost per MWh rises
-3. **Revenue falls** → solar and batteries suppress prices during nuclear selling hours
-4. **Curtailment extends** from summer into shoulder months and winter
-5. **Regional renewables** (Greek wind, Romanian solar) erode winter margins
-6. **Export markets close** → neighbors build own renewables, stop buying Bulgarian surplus
-7. **Reliability degrades** → aging plant, deferred maintenance, unplanned outages
-8. **Political choice** → subsidize, or close
+**It can't win.** Even if built on time and on budget (which no nuclear project in Europe has achieved this century), 4,000 MW of must-run nuclear competing with 14+ GW of near-zero-marginal-cost solar for a national demand that rarely exceeds 6,000 MW is arithmetic that doesn't work. The plant would be born into curtailment.
 
-Bulgaria is at stages 1-3 today. ESO's own projections and the Recovery and Resilience Plan place the country well into stages 4-6 by 2034.
+The billions earmarked for new reactors would yield far greater returns invested in grid flexibility, storage, and interconnection — the infrastructure Bulgaria actually needs.
 
-## 8. Conclusion
+**Kozloduy NPP is not in immediate danger. But the trajectory is unambiguous.**
 
-Kozloduy NPP is not in immediate danger. At current capacity factors and market prices, it remains viable. But the trajectory is unambiguous:
+Today, at 5.3 GW solar with no batteries, the average market price is 100 EUR/MWh and nuclear is comfortable. At 10 GW solar with 15 GWh of batteries, June and August become uneconomic. At ESO's projected 14.3 GW solar with 15 GWh of batteries, the average price drops to 74 EUR/MWh, the entire summer becomes uneconomic, and April-May-September are marginal — nuclear is profitable only five months a year. At 20 GW, six consecutive months are uneconomic and the yearly average itself falls below nuclear's cost.
 
-- **Today (5.3 GW solar, CF 89%)**: 46 EUR/MWh cost, comfortable
-- **~10 GW solar (CF 74%)**: 55 EUR/MWh, margins narrowing
-- **14.3 GW solar (ESO 2034, CF 69%)**: 59 EUR/MWh
-- **14.3 GW + Apr-Oct curtailment (CF 55%)**: 71 EUR/MWh, fragile
-- **+ regional wind + batteries + price compression**: approaching breakeven
+The forces driving this — solar deployment, battery storage, regional wind, export market saturation — are all accelerating. None of them are reversible. And none of them can be stopped. Even if Bulgaria froze all domestic renewable construction tomorrow, Greek wind farms, Romanian solar parks, and Turkish capacity additions would continue suppressing regional electricity prices. The Balkans energy market is integrating. Bulgaria cannot wall itself off from the solar and wind tsunami sweeping Southeast Europe. The electricity will flow through the interconnectors, the prices will converge, and the economics of inflexible baseload generation will continue to deteriorate.
 
-The CF has already dropped from 95% to 84% in five years. The forces driving this decline — solar deployment, battery storage, regional wind development, export market saturation — are all accelerating. None of them are reversible.
-
-**And none of them can be stopped.** Even if Bulgaria froze all domestic renewable construction tomorrow, Greek wind farms, Romanian solar parks, and Turkish capacity additions would continue suppressing regional electricity prices. The Balkans energy market is integrating. Bulgaria cannot wall itself off from the solar and wind tsunami sweeping Southeast Europe. The electricity will flow through the interconnectors, the prices will converge, and the economics of inflexible baseload generation will continue to deteriorate.
-
-The question facing Bulgarian energy policy is not *whether* nuclear economics will collapse, but whether the country plans proactively — investing in flexibility, storage, and grid modernization — or stumbles into crisis with billions wasted on new reactors the market doesn't need.
+The question is not *whether* nuclear economics will collapse, but whether Bulgaria plans proactively — investing in flexibility, storage, and grid modernization — or stumbles into crisis with billions wasted on new reactors that the market doesn't need and physics won't allow to compete.
 
 ---
 
