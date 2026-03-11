@@ -1,0 +1,14 @@
+title: "Бавно, но неизбежно: Икономическата смърт на ядрената енергетика в България"
+description: "Анализ на икономическата траектория на АЕЦ Козлодуй при нарастващ слънчев и акумулаторен капацитет."
+lang: bg
+theme: minima
+
+minima:
+  skin: classic
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-relative-links
