@@ -57,19 +57,11 @@ Bulgaria averaged 12.3 EUR/MWh for the day. Meanwhile, interconnector capacity t
 This happened with minimal renewables. The grid collapsed into surplus because of nuclear and coal inflexibility. Compare with Greece on the same day: 3,400 MW of wind, yet prices stayed at 38-142 EUR/MWh. Greece has a flexible gas fleet that ramps down when renewables ramp up. Bulgaria doesn't.
 
 
-**The export market that once absorbed Bulgaria's surplus is gone.**
+**The export market that once absorbed Bulgaria's surplus is gone — and the plant itself is under pressure from within.**
 
 Before the solar boom, Bulgaria could profitably export surplus baseload power to neighbors. Romania is now building its own solar fleet. Greece has massive wind. Even if Bulgaria were to freeze all domestic solar construction tomorrow, the problem doesn't go away. Bulgaria, Romania, and Greece form a tightly coupled electricity market — prices typically track within 5 EUR/MWh across the region. The solar and wind tsunami is regional, not national.
 
-**Meanwhile, Unit 6 is making the problem worse from the other side.**
-
-Between December 2025 and February 2026, Unit 6 experienced multiple unplanned shutdowns. In summer 2025, Unit 6 was offline or at half capacity for extended periods — May averaged just 1,064 MW of nuclear output (versus ~2,000 MW at full capacity). Output has dropped from 16.7 TWh in 2020 to 14.8 TWh in 2025 — a fall of 1.9 TWh (11%) in five years. Note that 2025 ENTSOE data is preliminary — the final numbers, once released, are expected to be worse.
-
-**Kozloduy's real operating cost is 723 million EUR per year — and almost all of it is fixed.**
-
-According to Kozloduy's 2024 annual report, operating expenses (excluding the SES fund regulatory levy) total 723 M EUR. Of this, 617 M EUR is fixed — paid whether the plant runs or not. Only fuel and grid access (~6.8 EUR/MWh) scale with output.
-
-**So when does Kozloduy actually have to start shutting reactors down?**
+The plant's reliability is deteriorating in parallel. Between December 2025 and February 2026, Unit 6 experienced multiple unplanned shutdowns. In summer 2025, it was offline or at half capacity for extended periods — May averaged just 1,064 MW of nuclear output (versus ~2,000 MW at full capacity). Output has dropped from 16.7 TWh in 2020 to 14.8 TWh in 2025 — a fall of 1.9 TWh (11%) in five years. This matters because Kozloduy's operating cost is 723 million EUR per year — and almost all of it is fixed. According to the 2024 annual report, 617 M EUR is fixed — paid whether the plant runs or not. Only fuel and grid access (~6.8 EUR/MWh) scale with output. Every lost MWh spreads those fixed costs over less production.
 
 Kozloduy's two VVER-1000 reactors cannot modulate to follow hourly load — they are not designed for load-following operation. They can reduce output to roughly 70% (running both at ~700 MW each, or 1,400 MW total), or take one reactor completely offline (~1,000 MW). These are the only realistic curtailment options.
 
