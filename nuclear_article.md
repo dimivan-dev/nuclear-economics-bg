@@ -1,106 +1,103 @@
-# Slow but Inevitable: The Economic Death of Nuclear in Bulgaria
+# Бавно, но неизбежно: Икономическата смърт на ядрената енергетика в България
 
-A nuclear power plant is like a factory with enormous rent and almost no raw material costs. Whether Kozloduy NPP produces one megawatt-hour or sixteen billion of them, it still pays the same salaries to thousands of employees, the same maintenance bills, the same decommissioning contributions, and the same depreciation on its life-extension investments. The actual fuel — uranium — is surprisingly cheap, just a few euros per megawatt-hour.
+Атомната електроцентрала прилича на фабрика с огромен наем и почти никакви разходи за суровини. Независимо дали АЕЦ Козлодуй произвежда един мегаватчас или шестнадесет милиарда, тя пак плаща същите заплати на хилядите си служители, същите сметки за поддръжка, същите вноски за извеждане от експлоатация и същата амортизация на инвестициите в удължаване на живота си. Самото гориво — уранът — е изненадващо евтино: само няколко евро на мегаватчас.
 
-This cost structure creates a simple but unforgiving economic rule: nuclear power only works if the plant runs **a lot**. The industry measures this as the **capacity factor (CF)** — what percentage of the theoretical maximum the plant actually produces. At 90% CF, the massive fixed costs are spread over a lot of electricity, making each unit affordable. At 50% CF, those same costs are spread over half the output, roughly doubling the price per unit. There's no way around this math.
+Тази структура на разходите създава проста, но безпощадна икономическа правило: ядрената енергия работи само ако централата работи **много**. В бранша това се измерва с **коефициент на използване (КИ)** — какъв процент от теоретичния максимум реално се произвежда. При КИ 90% огромните постоянни разходи се разпределят върху много електроенергия и себестойността на единица е приемлива. При КИ 50% същите разходи се разпределят върху половината продукция, което приблизително удвоява цената на единица. Математиката е неумолима.
 
-![Cost vs Capacity Factor](charts/cost_vs_cf.png)
+![Себестойност спрямо коефициент на използване](charts/cost_vs_cf.png)
 
-For decades, Kozloduy's two 1,000 MW reactors ran at 92-95% capacity factor, producing 16+ TWh per year. Electricity was always needed, the plant ran flat out, and the economics were excellent.
+В продължение на десетилетия двата реактора по 1 000 МВт на Козлодуй работеха с коефициент на използване 92–95%, произвеждайки над 16 ТВтч годишно. Електроенергията винаги беше нужна, централата работеше на пълна мощност и икономиката беше отлична.
 
-That model is now breaking — and the force breaking it cannot be stopped.
+Този модел сега се разпада — и силата, която го разрушава, не може да бъде спряна.
 
-**Bulgaria's installed solar capacity has reached 5.3 GW. ESO projects 14.8 GW of new solar and 16 GWh of battery storage by 2034.**
+**Инсталираният соларен капацитет на България достигна 5,3 ГВт. ЕСО прогнозира 14,8 ГВт нова слънчева и 16 ГВтч акумулаторна мощност до 2034 г.**
 
-ESO's (the Bulgarian Transmission System Operator) 10-year network development plan lays it out plainly, based on investor intentions already in the pipeline:
+Десетгодишният план за развитие на преносната мрежа на ЕСО (Електроенергийния системен оператор) го казва ясно, въз основа на инвеститорски намерения, вече в процес на реализация:
 
 > „С ускореното навлизане на ВЕИ и липса на значителен промишлен товар в страната, необходимостта от принудително ограничаване работната мощност на АЕЦ през определени периоди в годината тепърва ще се увеличава."
 >
 > — ЕСО, Десетгодишен план за развитие на преносната мрежа 2024-2033
 
-*("With the accelerated entry of renewables and the lack of significant industrial load in the country, the need to forcibly limit the operating capacity of the NPP during certain periods of the year will only increase.")*
+Участието на България в Плана за възстановяване и устойчивост на ЕС допълнително ще ускори тези срокове. Инвестиционните стимули и ускореното регулаторно одобрение означават, че страната вероятно ще достигне 16 ГВтч акумулаторна мощност и ключови слънчеви показатели в рамките на месеци.
 
-Bulgaria's participation in the EU Recovery and Resilience Plan will further accelerate this timeline. The investment incentives and regulatory fast-tracking mean the country will likely reach 16 GWh of battery storage and significant solar milestones in several months.
+**Веднъж изградена, слънчевата енергия произвежда безплатно. Когато залее мрежата, тя бута цените към нула — и ядрената енергия няма къде да се скрие.**
 
-**Once built, solar produces for free. When it floods the grid, it pushes prices toward zero — and nuclear has nowhere to hide.**
+Ядрената енергия не се ограничава физически от слънчевата — централата може да продължи да работи. Проблемът е икономически: когато слънчевата енергия натисне цените под оперативните разходи на АЕЦ, всеки час, в който централата работи, е час на загуба.
 
-Nuclear doesn't get physically curtailed by solar — it could keep running. The problem is economic: when solar pushes prices below nuclear's operating cost, every hour the plant runs is an hour it loses money.
+Досега Козлодуй беше частично защитен от дневния ценови цикъл. Дори в слънчеви дни вечерният пик (когато слънцето залезе, но търсенето остава високо) поддържаше средните дневни цени над себестойността на АЕЦ. Ядрената централа продаваше евтино по обяд, но компенсираше от вечерния пик. При липсата на значително акумулаторно съхранение в България тази ценова разлика пик–нощ беше животоспасяващата нишка за ядрената енергия.
 
-Until now, Kozloduy has been partly shielded by the daily price cycle. Even on sunny days, the evening peak (when solar fades but demand stays high) kept average daily prices above nuclear's cost. Nuclear sold cheaply at midday but recovered on the evening peak. With no significant battery storage deployed yet in Bulgaria, this peak-night spread has been nuclear's lifeline.
+**Тази нишка е на път да бъде прерязана.**
 
-**That lifeline is about to be cut.**
+При планираните 16 GWh батерии (ускорени от Плана за възстановяване и устойчивост) батериите ще се зареждат в слънчевия обяд и ще се разреждат в условията на вечерния пик — елиминирайки точно ценовата разлика, която прави ядрената енергия рентабилна в слънчеви дни. Когато батериите изравнят вечерния пик, АЕЦ няма откъде да компенсира обедните си загуби.
 
-With 16 GWh of batteries planned (and accelerated by the Recovery and Resilience Plan), batteries will charge during solar midday and discharge into the evening peak — eliminating exactly the price spread that keeps nuclear profitable on sunny days. Once batteries flatten the evening peak, nuclear has nowhere to recover its midday losses.
+**През лятото на 2025 г. слънчевата енергия вече осигурява 25–30% от електропроизводството на България — и предстои да се утрои.**
 
-**In summer 2025, solar already accounts for 25-30% of Bulgaria's electricity generation — and is set to triple.**
+Използвайки реални пазарни данни от 2025 г., моделираме цените на електроенергията при нарастване на слънчевия капацитет към прогнозите на ЕСО за 2034 г. Моделът използва емпиричната зависимост на пазарния ред по заслуги (как цените реагират на промени в остатъчното натоварване), отчита ограничаването на слънчевото производство (операторите изключват панели вместо да приемат отрицателни цени) и моделира влиянието на батериите чрез ежедневен енергиен баланс — батериите се зареждат от нулевите слънчеви часове и се разреждат в пиковите часове, структурно тавайки вечерните цени.
 
-Using 2025 actual market data, we model electricity prices as solar capacity grows toward ESO's 2034 projections. The model uses the empirical merit-order relationship (how prices respond to changes in residual load), accounts for solar curtailment (operators turn off panels rather than accept negative prices), and models battery impact through daily energy-balance dispatch — batteries charge from zero-price solar hours and discharge into peak hours, structurally capping evening prices.
+Важна уговорка: базовата линия от 2025 г. вече подценява проблема. В периода май–август 2025 г. Блок 6 беше спрян или работеше с наполовина намален капацитет продължително, с което ядреното производство намаля с 500–900 МВт. Това по-ниско предлагане поддържаше цените по-високи, отколкото биха били при двата работещи реактора. Числата по-долу са следователно консервативни.
 
-An important caveat: the 2025 baseline already understates the problem. During May-August 2025, Unit 6 was offline or running at half capacity for extended periods, reducing nuclear output by 500-900 MW. This lower supply kept prices higher than they would have been with both reactors running. The numbers below are therefore conservative.
+При прогнозираните от ЕСО 14,3 ГВт слънчева мощност и 16 ГВтч батерии шест месеца в годината (от април до септември) имат средни цени под оперативната себестойност на АЕЦ от 46 EUR/MWh. Юни и август падат до 28–29 EUR/MWh. При 32 ГВтч батерии (които пазарът неизбежно ще изгради с нарастването на арбитражната възможност) юни пада до 15 EUR/MWh. Зимните месеци се задържат над 70 EUR/MWh, но лятното сриване дърпа годишната средна до 53 EUR/MWh — само 7 EUR/MWh над себестойността на АЕЦ.
 
-At ESO's projected 14.3 GW of solar with 16 GWh of batteries, six months of the year (April through September) have average prices below nuclear's operating cost of 46 EUR/MWh. June and August drop to 28-29 EUR/MWh. With 32 GWh of batteries (which the market will inevitably build as the arbitrage opportunity grows), June drops to 15 EUR/MWh. Winter months hold above 70 EUR/MWh, but the summer collapse drags the annual average to 53 EUR/MWh — just 7 EUR/MWh above nuclear's cost.
+**Батериите не просто прехвърлят енергия — те трайно унищожават пиковата премия.**
 
-**Batteries don't just shift energy — they permanently destroy the peak premium.**
+В слънчеви дни цените падат по обяд, но се възстановяват вечер — АЕЦ продава евтино по пладне, но печели от пика. При 16 ГВтч батерии, заряждани от безплатна слънчева и разреждани вечер, тези пикови часове се таванират при пълната себестойност на въглищата (88 EUR/MWh). При 32 ГВтч батериите покриват по-голямата част от нощта, сривайки цените до цената им на цикъл (~15 EUR/MWh). Ценовата разлика се трансформира от времеви арбитраж (купи евтино по обяд, продай скъпо вечер) в технологичен арбитраж: батериите печелят от разликата в разходите между слънчевата (~0 EUR/MWh) и въглищата (~88 EUR/MWh). АЕЦ, захваната между тях, не може да продава нито от едната, нито от другата страна на тази нова разлика.
 
-On sunny days, prices dip at midday but recover in the evening — nuclear sells cheaply at noon but profits from the peak. With 16 GWh of batteries charging from free solar and discharging into the evening, those peak hours get capped at coal's full cost (88 EUR/MWh). With 32 GWh, batteries cover most of the night, collapsing prices to their cycling cost (~15 EUR/MWh). The price spread transforms from time-of-day arbitrage (buy cheap midday, sell expensive evening) into technology arbitrage: batteries profit from the cost gap between solar (~0 EUR/MWh) and coal (~88 EUR/MWh). Nuclear, caught in between, can sell into neither side of this new spread.
+**Традиционният бастион на АЕЦ е зимата. Дори той се рони.**
 
-**Nuclear's traditional stronghold is winter. Even that is eroding.**
+Гръцкият и румънският вятър се конкурират пряко с българската атомна енергия през зимните месеци. В ветровити зимни дни регионалните цени са изправени пред същия натиск на свръхпредлагане, какъвто слънчевата енергия създава лятото. „Безопасният" сезон за продажби на АЕЦ се свива от двата края — слънчевата поглъща преходните месеци и лятото, регионалният вятър навлиза в зимата.
 
-Greek and Romanian wind competes directly with Bulgarian nuclear during winter months. On windy winter days, regional prices face the same oversupply pressure that solar creates in summer. Nuclear's "safe" selling season is shrinking from both ends — solar eats the shoulder months and summer, regional wind eats into winter.
+**На 15 февруари 2026 г. България отчете цени близо до нула за почти целия ден — и то зимата.**
 
-**On February 15, 2026, Bulgaria experienced near-zero electricity prices for almost the entire day — in winter.**
+![15 февруари 2026: Цени БГ](charts/feb15_2026_prices.png)
 
-![Feb 15, 2026: BG Prices](charts/feb15_2026_prices.png)
+България средно отчете 12,3 EUR/MWh за деня. Междувременно капацитетът на интерконекторите към съседните страни беше напълно изчерпан — България не можеше да изнесе излишъка си на никаква цена. Причината: 3 200 МВт задължително производство (АЕЦ 1 904 + лигнит ~1 100 + газова КТЦ ~310) срещу ~3 800 МВт търсене, с едва 300–470 МВт вятър отгоре.
 
-Bulgaria averaged 12.3 EUR/MWh for the day. Meanwhile, interconnector capacity to neighboring countries was fully saturated — Bulgaria couldn't export its surplus at any price. The cause: 3,200 MW of must-run generation (nuclear 1,904 + lignite ~1,100 + gas CHP ~310) against ~3,800 MW demand, with just 300-470 MW of wind on top.
+Това се случи при минимални ВЕИ. Мрежата се срина в излишък заради негъвкавостта на АЕЦ и въглищата. За сравнение: в Гърция същия ден имаше 3 400 МВт вятър, а цените се задържаха на 38–142 EUR/MWh. Гърция разполага с гъвкав газов парк, който намалява мощността, когато ВЕИ нарастват. България — не.
 
-This happened with minimal renewables. The grid collapsed into surplus because of nuclear and coal inflexibility. Compare with Greece on the same day: 3,400 MW of wind, yet prices stayed at 38-142 EUR/MWh. Greece has a flexible gas fleet that ramps down when renewables ramp up. Bulgaria doesn't.
+**Износният пазар, който някога поглъщаше излишъка на България, вече го няма — а самата централа е под натиск отвътре.**
 
+Преди слънчевия бум България можеше да изнася изгодно базова мощност към съседите. Румъния сега изгражда собствен слънчев парк. Гърция разполага с огромна вятърна мощност. Дори ако България замрази утре цялото вътрешно строителство на ВЕИ, проблемът не изчезва. България, Румъния и Гърция образуват тясно свързан електроенергиен пазар — цените обичайно се движат в рамките на 5 EUR/MWh в целия регион. Цунамито от слънчева и вятърна енергия е регионално, не национално.
 
-**The export market that once absorbed Bulgaria's surplus is gone — and the plant itself is under pressure from within.**
+Надеждността на централата се влошава паралелно. В периода декември 2025 – февруари 2026 г. Блок 6 претърпя множество непланирани спирания. През лятото на 2025 г. той беше спрян или работеше с наполовина капацитет продължително — средното ядрено производство за май беше едва 1 064 МВт (спрямо ~2 000 МВт при пълна мощност). Производството е паднало от 16,7 ТВтч през 2020 г. до 14,8 ТВтч през 2025 г. — спад от 1,9 ТВтч (11%) за пет години. Важно е, защото оперативните разходи на Козлодуй са 723 млн. EUR годишно — и почти всички са постоянни. Съгласно годишния отчет за 2024 г. 617 млн. EUR са постоянни — платими независимо дали централата работи или не. Само горивото и достъпът до мрежата (~6,8 EUR/MWh) се променят с производството. Всеки изгубен MWh разпределя тези постоянни разходи върху по-малко продукция.
 
-Before the solar boom, Bulgaria could profitably export surplus baseload power to neighbors. Romania is now building its own solar fleet. Greece has massive wind. Even if Bulgaria were to freeze all domestic solar construction tomorrow, the problem doesn't go away. Bulgaria, Romania, and Greece form a tightly coupled electricity market — prices typically track within 5 EUR/MWh across the region. The solar and wind tsunami is regional, not national.
+Двата реактора ВВЕР-1000 на Козлодуй не могат да регулират мощността си в съответствие с почасовото натоварване — те не са проектирани за следене на товара. Могат да намалят производството до около 70% (и двата по ~700 МВт, или общо 1 400 МВт) или да спрат напълно един реактор (~1 000 МВт). Това са единствените реалистични варианти за ограничаване.
 
-The plant's reliability is deteriorating in parallel. Between December 2025 and February 2026, Unit 6 experienced multiple unplanned shutdowns. In summer 2025, it was offline or at half capacity for extended periods — May averaged just 1,064 MW of nuclear output (versus ~2,000 MW at full capacity). Output has dropped from 16.7 TWh in 2020 to 14.8 TWh in 2025 — a fall of 1.9 TWh (11%) in five years. This matters because Kozloduy's operating cost is 723 million EUR per year — and almost all of it is fixed. According to the 2024 annual report, 617 M EUR is fixed — paid whether the plant runs or not. Only fuel and grid access (~6.8 EUR/MWh) scale with output. Every lost MWh spreads those fixed costs over less production.
+Картината е ясна. При прогнозираните от ЕСО 14,3 ГВт слънчева и 16 ГВтч батерии Козлодуй получава 53 EUR/MWh при себестойност 46 EUR/MWh — годишна печалба от 182 млн. EUR върху база от разходи 735 млн. EUR. Това е марж от 25%, спаднал от днешните комфортни 137%. При 32 ГВтч батерии (нивото, до което пазарът ще изгради с нарастването на соларно-пиковата разлика) печалбата се свива до едва **82 млн. EUR — и средните приходи от 47 EUR/MWh едва покриват себестойността от 46 EUR/MWh**. Един лош сезон, един продължителен аварийен престой, един ценови спад — и всичко е изтрито.
 
-Kozloduy's two VVER-1000 reactors cannot modulate to follow hourly load — they are not designed for load-following operation. They can reduce output to roughly 70% (running both at ~700 MW each, or 1,400 MW total), or take one reactor completely offline (~1,000 MW). These are the only realistic curtailment options.
+Спирането на реактор за лятото не помага — намалява приходите повече, отколкото пести от променливите разходи, защото пределната цена на производство (7 EUR/MWh) е далеч под дори потиснатите летни цени. Всяка стратегия за ограничаване носи по-малко от работата на пълна мощност.
 
-The picture is clear. At ESO's projected 14.3 GW of solar with 16 GWh of batteries, Kozloduy earns 53 EUR/MWh against a cost of 46 EUR/MWh — a 182 M EUR annual profit on a 735 M EUR cost base. That's a 25% margin, down from today's comfortable 137%. With 32 GWh of batteries (the level the market will build to exploit the growing solar-peak spread), the profit shrinks to just **82 M EUR — and the average revenue of 47 EUR/MWh barely clears the 46 EUR/MWh cost**. One bad year, one extended outage, one price dip wipes it out.
+![Сравнение на стратегии](charts/strategy_comparison.png)
 
-Taking a reactor offline for the summer doesn't help — it reduces revenue more than it saves in variable costs, because the marginal cost of running (7 EUR/MWh) is far below even the depressed summer prices. Every curtailment strategy earns less than running flat out.
+При 20 ГВт слънчева и 32 ГВтч батерии ядрената енергетика навлиза в зоната на трайна загуба. Никоя оперативна стратегия — пълна мощност, намалена мощност, спрян реактор — не носи печалба. Загубата достига 73–105 млн. EUR в зависимост от стратегията. Дори при 20 ГВт само с 16 ГВтч батерии маржът е на ръба: +63 млн. EUR при пълна мощност, но отрицателен при спиране на един реактор за лятото.
 
-![Strategy Comparison](charts/strategy_comparison.png)
+**Това е смъртна спирала — и България вече я навлиза.**
 
-At 20 GW of solar with 32 GWh of batteries, nuclear enters permanent loss territory. No operating strategy — full power, reduced power, one reactor off — returns a profit. The loss reaches 73-105 M EUR depending on strategy. Even at 20 GW with just 16 GWh of batteries, the margin is razor-thin: +63 M EUR at full power, turning negative if one reactor is taken off for the summer.
+Моделът е добре документиран на всеки пазар, където ВЕИ са достигнали критична маса. Слънчевата и вятърната мощност нарастват, пазарните цени падат. Приходите намаляват, а постоянните разходи остават същите. Все повече часове се сриват до нула, докато слънчевата залива мрежата. Батериите изравняват оставащия пик. Централата спира за по-дълги периоди. Производството пада, себестойността на единица расте. Регионалните ВЕИ ерозират дори зимните маржове. Износните пазари се затварят, докато съседите изграждат собствен капацитет. И тогава идва политическият избор: субсидии или затваряне.
 
-**This is a death spiral — and Bulgaria is entering it now.**
+Проблемите с надеждността и слънчевия натиск се подхранват взаимно. Всяко непланирано спиране вдига разходите, а всеки ГВт слънчева мощност свива приходите. Маржът се стеснява от двете страни.
 
-The pattern is well-documented in every market where renewables have reached critical mass. Solar and wind grow, market prices drop. Revenue falls, but fixed costs stay the same. More and more hours collapse to zero as solar floods the grid. Batteries flatten the remaining peak. The plant shuts down for longer periods. Output drops, costs per unit rise. Regional renewables erode even winter margins. Export markets close as neighbors build their own capacity. And then comes the political choice: subsidize, or close.
+**На този фон България преследва планове за изграждане на още два реактора.**
 
-Reliability issues and the solar squeeze feed each other. Every unplanned outage pushes costs up, and every GW of solar pushes revenue down. The margin gets thinner from both sides.
+Проектът ще струва милиарди евро с времева рамка за строителство, простираща се до средата на 30-те години. Това е като да вкараш куц, сляп кон в надбягване, за което вече е закъснял — и дори да пристигне навреме, не може да спечели.
 
-**Against this backdrop, Bulgaria is pursuing plans to build two more reactors.**
+**Закъснял е.** Новото ядрено строителство отнема 10–15 години. Когато тези реактори произведат първия си MWh, ЕСО прогнозира, че на мрежата вече ще има 14,8 ГВт слънчева и 16 ГВтч батерии. Пазарът, за който са проектирани тези реактори, ще е престанал да съществува.
 
-The project would cost billions of euros with a construction timeline stretching into the mid-2030s. This is like entering a lame, blind horse into a race that it's already late for — and even if it arrived on time, it couldn't win.
+**Куц е.** Ядрената енергия е негъвкава. Не може да намали мощността за слънчеви следобеди или ветровити зимни нощи. На пазар, доминиран от ВЕИ, негъвкавостта не е предимство — тя е фатален недостатък. Всеки час, в който реакторът не може да се нагоди, е час, в който той губи пари.
 
-**It's late.** New nuclear construction takes 10-15 years. By the time these reactors produce their first MWh, ESO projects 14.8 GW of solar and 16 GWh of batteries will already be on the grid. The market these reactors are designed for will have ceased to exist.
+**Сляп е.** Проектът игнорира всеки пазарен сигнал. Коефициентите на използване падат. Пазарните цени се свиват. Съседите изграждат собствени ВЕИ. Износните пазари се насищат. Данните крещят, че негъвкавата базова мощност няма бъдеще на интегриращия се електроенергиен пазар в Югоизточна Европа. Проектът не вижда нищо от това.
 
-**It's lame.** Nuclear is inflexible. It can't ramp down for sunny afternoons or windy winter nights. In a market dominated by variable renewables, inflexibility is not a feature — it's a fatal flaw. Every hour the reactor can't flex is an hour it bleeds money.
+**Не може да спечели.** Дори изграден навреме и в рамките на бюджета (което не е постигнал нито един ядрен проект в Европа през този век), 4 000 МВт задължителна ядрена мощност, конкурираща се с 14+ ГВт почти нулева пределна слънчева енергия за национално търсене, рядко надхвърлящо 6 000 МВт — е аритметика, която не работи. Централата ще се роди в режим на ограничаване.
 
-**It's blind.** The project ignores every market signal. Capacity factors falling. Market prices compressing. Neighbors building their own renewables. Export markets saturating. The data is screaming that inflexible baseload has no future in Southeast Europe's integrating electricity market. The project sees none of this.
+Милиардите, заделени за нови реактори, биха донесли много по-голяма възвращаемост, ако бъдат инвестирани в мрежова гъвкавост, съхранение и интерконекция — инфраструктурата, от която България действително се нуждае.
 
-**It can't win.** Even if built on time and on budget (which no nuclear project in Europe has achieved this century), 4,000 MW of must-run nuclear competing with 14+ GW of near-zero-marginal-cost solar for a national demand that rarely exceeds 6,000 MW is arithmetic that doesn't work. The plant would be born into curtailment.
+**АЕЦ Козлодуй не е в непосредствена опасност. Но траекторията е недвусмислена.**
 
-The billions earmarked for new reactors would yield far greater returns invested in grid flexibility, storage, and interconnection — the infrastructure Bulgaria actually needs.
+Днес, при 5,3 ГВт слънчева и без батерии, средната пазарна цена е 101 EUR/MWh и АЕЦ печели комфортните 1 007 млн. EUR. Добавете 16 ГВтч батерии — без никаква нова слънчева — и тази печалба се преполовява до 518 млн. EUR, тъй като батериите таванират вечерния пик. При 10 ГВт слънчева с батерии печалбата пада до 308 млн. EUR. При прогнозираните от ЕСО 14,3 ГВт с 16 ГВтч батерии печалбата се свива до 182 млн. EUR — комфортно на хартия, но марж от 25% върху база от разходи 735 млн. EUR не оставя пространство за грешка. При 32 ГВтч батерии АЕЦ едва излиза на нула с 82 млн. EUR. При 20 ГВт + 32 ГВтч навлиза в трайна загуба.
 
-**Kozloduy NPP is not in immediate danger. But the trajectory is unambiguous.**
+Силите, движещи това — внедряване на слънчева енергия, акумулаторно съхранение, регионален вятър, насищане на износните пазари — се ускоряват. Нито една от тях не е обратима. Нито една не може да бъде спряна. Дори ако България замрази цялото вътрешно строителство на ВЕИ утре, гръцките вятърни паркове, румънските слънчеви паркове и турските допълнителни мощности ще продължат да потискат регионалните цени на електроенергията. Балканският енергиен пазар се интегрира. България не може да се огради от слънчево-вятърното цунами, заливащо Югоизточна Европа. Електричеството ще тече през интерконекторите, цените ще се изравнят и икономиката на негъвкавото базово производство ще продължи да се влошава.
 
-Today, at 5.3 GW solar with no batteries, the average market price is 101 EUR/MWh and nuclear earns a comfortable 1,007 M EUR profit. Add 16 GWh of batteries alone — without any new solar — and that profit halves to 518 M EUR as batteries cap the evening peak. At 10 GW solar with batteries, profit drops to 308 M EUR. At ESO's projected 14.3 GW with 16 GWh of batteries, profit shrinks to 182 M EUR — comfortable on paper, but a 25% margin on a 735 M EUR cost base leaves no room for error. With 32 GWh of batteries, nuclear barely breaks even at 82 M EUR. At 20 GW + 32 GWh, nuclear enters permanent loss.
-
-The forces driving this — solar deployment, battery storage, regional wind, export market saturation — are all accelerating. None of them are reversible. And none of them can be stopped. Even if Bulgaria froze all domestic renewable construction tomorrow, Greek wind farms, Romanian solar parks, and Turkish capacity additions would continue suppressing regional electricity prices. The Balkans energy market is integrating. Bulgaria cannot wall itself off from the solar and wind tsunami sweeping Southeast Europe. The electricity will flow through the interconnectors, the prices will converge, and the economics of inflexible baseload generation will continue to deteriorate.
-
-The question is not *whether* nuclear economics will collapse, but whether Bulgaria plans proactively — investing in flexibility, storage, and grid modernization — or stumbles into crisis with billions wasted on new reactors that the market doesn't need and physics won't allow to compete.
+Въпросът не е *дали* икономиката на ядрената енергия ще се срине, а дали България планира проактивно — инвестирайки в гъвкавост, съхранение и модернизация на мрежата — или ще се спъне в криза с похарчени милиарди за нови реактори, от които пазарът няма нужда и физиката не позволява да се конкурират.
 
 ---
 
-*Analysis based on ENTSOE hourly market data (2015-2026), Kozloduy NPP 2024 Annual Report, and ESO 10-year network development plan 2024-2033 ([eso.bg](https://www.eso.bg/fileObj.php?oid=5402)). Full data tables in [analysis_tables.md](analysis_tables.md). All data and scripts available at [github.com/dimivan-dev/nuclear-economics-bg](https://github.com/dimivan-dev/nuclear-economics-bg).*
+*Анализът е базиран на почасови пазарни данни на ЕНТСО-Е (2015–2026), годишния отчет на АЕЦ Козлодуй за 2024 г. и Десетгодишния план за развитие на преносната мрежа на ЕСО 2024–2033 ([eso.bg](https://www.eso.bg/fileObj.php?oid=5402)). Пълни таблици с данни в [analysis_tables.md](analysis_tables.md). Всички данни и скриптове са достъпни на [github.com/dimivan-dev/nuclear-economics-bg](https://github.com/dimivan-dev/nuclear-economics-bg).*
